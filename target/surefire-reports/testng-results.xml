@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite1" duration-ms="159" started-at="2017-07-14T06:10:41Z" finished-at="2017-07-14T06:10:41Z">
+    <groups>
+    </groups>
+    <test name="Test1" duration-ms="159" started-at="2017-07-14T06:10:41Z" finished-at="2017-07-14T06:10:41Z">
+      <class name="by.htp.citygameclient.TestClient">
+        <test-method status="PASS" signature="init()[pri:0, instance:by.htp.citygameclient.TestClient@380fb434]" name="init" is-config="true" duration-ms="37" started-at="2017-07-14T09:10:41Z" finished-at="2017-07-14T09:10:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- init -->
+        <test-method status="PASS" signature="testLastSymbol()[pri:0, instance:by.htp.citygameclient.TestClient@380fb434]" name="testLastSymbol" duration-ms="6" started-at="2017-07-14T09:10:41Z" finished-at="2017-07-14T09:10:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testLastSymbol -->
+        <test-method status="PASS" signature="testLAnswer()[pri:0, instance:by.htp.citygameclient.TestClient@380fb434]" name="testLAnswer" duration-ms="2" started-at="2017-07-14T09:10:41Z" finished-at="2017-07-14T09:10:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testLAnswer -->
+        <test-method status="PASS" signature="testServer()[pri:0, instance:by.htp.citygameclient.TestClient@380fb434]" name="testServer" duration-ms="22" started-at="2017-07-14T09:10:41Z" finished-at="2017-07-14T09:10:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testServer -->
+      </class> <!-- by.htp.citygameclient.TestClient -->
+    </test> <!-- Test1 -->
+  </suite> <!-- Suite1 -->
+</testng-results>
